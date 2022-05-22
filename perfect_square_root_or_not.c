@@ -9,11 +9,11 @@ int main()
     fvar=sqrt((double)num);
     ivar=fvar;
     if(ivar==fvar)
-{
-    printf("True");
-}
-else
-{
-    printf("False");
-}
+    {
+        printf("True");
+    }
+    else
+    {
+        printf("False");
+    }
 }
